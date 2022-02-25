@@ -41,4 +41,31 @@ SpringFramework를 활용하여 사용되는 서버 프로그램 중에서 데�
 
 ## 6. 실제 페이지 설명
 ![image](https://user-images.githubusercontent.com/84886987/155640756-ecf412ed-563e-4d9e-9f40-029cbb74bd3d.png)
+![image](https://user-images.githubusercontent.com/84886987/155640822-36e6380c-e23e-4f9f-bfa8-6fcbc9ebe959.png)
+![image](https://user-images.githubusercontent.com/84886987/155640843-7e7e4676-0530-4796-b2ca-0c1d7e1044e9.png)
+![image](https://user-images.githubusercontent.com/84886987/155640868-8a7b6c2b-000f-4179-bc24-55cdf8164e79.png)
+![image](https://user-images.githubusercontent.com/84886987/155640883-70725ef2-0217-47be-ad1d-e4f9fec155df.png)
+![image](https://user-images.githubusercontent.com/84886987/155640912-56ae23eb-4026-4b5a-a6d6-13e4254529c0.png)
+![image](https://user-images.githubusercontent.com/84886987/155640928-14548a44-200b-41a4-8ced-445f77910b6f.png)
+![image](https://user-images.githubusercontent.com/84886987/155640944-89fd0972-8664-4249-86e5-b80e1ce97b97.png)
+![image](https://user-images.githubusercontent.com/84886987/155640967-aa659d48-c7fa-4862-879a-430a6374009c.png)
+![image](https://user-images.githubusercontent.com/84886987/155640990-edfd9e56-9d1e-4680-ae27-c8403c77a3df.png)
+![image](https://user-images.githubusercontent.com/84886987/155641015-1671b7b5-955c-4cbb-8cf2-5187a30e0f3a.png)
+![image](https://user-images.githubusercontent.com/84886987/155641047-2c9cf9b0-8376-4254-9678-a1bcb7bffac1.png)
+
+
+<br>
+
+## 7. 회고 및 느낀점
+>Spring MVC 패턴 이론을 공부했던 것을 실제로 적용해보니 구동 방식이 이렇게 되는구나 하고 깨닫게 되었습니다.   
+>앞으로 Spring에 관한 개발 공부를 더 심도 있게 해야 할 것 같다고 느꼈습니다.    
+>그리고 팀 프로젝트는 개발뿐만 아니라 팀원과의 커뮤니케이션이 중요 하다는 것을 크게 깨닫게 되는 계기가 되었습니다.   
+
+
+
+
+
+
+
+
 
